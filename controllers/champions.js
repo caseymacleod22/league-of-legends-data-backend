@@ -1,0 +1,1 @@
+const Champion = require('../models/champion')
